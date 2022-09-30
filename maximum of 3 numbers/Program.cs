@@ -18,4 +18,4 @@ if (number3 > max)
     max = number3;
 }
 
-Console.WriteLine(number1 + ", " + number2 + ", " + number3 + " -> max = " + max);
+Console.WriteLine(number1 + ", " + number2 + ", " + number3 + " -> max = " + max); 
