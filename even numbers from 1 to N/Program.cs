@@ -11,6 +11,10 @@ while (count <= number)
     {
         Console.Write(" " + count);
     }
+    else if (count + 1  == number)
+    {
+        Console.Write(" " + count);
+    }
     else
         Console.Write(" " + count + ",");
     count += 2;
